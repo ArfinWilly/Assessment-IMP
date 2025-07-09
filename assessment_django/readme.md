@@ -28,8 +28,8 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal.
 
 1.  **Clone Repositori**
     ```bash
-    git clone Assesment-Django-IMP
-    cd Assesment-Django-IMP
+    git clone Assessment-IMP
+    cd assessment_django
     ```
 
 2.  **Buat dan Aktifkan Virtual Environment**
